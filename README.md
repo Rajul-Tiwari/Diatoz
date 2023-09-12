@@ -1,0 +1,2 @@
+# Diatoz
+College Management System
